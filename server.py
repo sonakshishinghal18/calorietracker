@@ -17,7 +17,7 @@ from openai import OpenAI
 #  On Render: set OPENAI_API_KEY in Environment
 #  Locally:   replace the string below OR export OPENAI_API_KEY=sk-...
 # ─────────────────────────────────────────────
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "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")
 
 app = Flask(__name__, static_folder=".", static_url_path="")
 CORS(app)
