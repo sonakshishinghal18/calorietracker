@@ -5,7 +5,7 @@
 
 // ▶ STEP 1: Paste your OpenAI API key here
 //   Get one at: https://platform.openai.com/api-keys
-const OPENAI_KEY = 'YOUR_OPENAI_API_KEY_HERE';
+const OPENAI_KEY = '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';
 
 // ─────────────────────────────────────────────────────────────
 //  HELPERS
